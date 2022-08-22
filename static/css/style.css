@@ -8,3 +8,26 @@ body,
 html {
   height: 100%;
 }
+
+
+html,
+body,
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.info {
+padding: 10px;
+background: white;
+border-radius: 25px;
+}
+
+.legend i {
+width: 15px;
+height: 15px;
+float: left;
+}
